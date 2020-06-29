@@ -1,0 +1,21 @@
+{
+    "name": "Auftrag 6 Matrix 256_Start",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "neopixel": "github:smartfeld/pxt-neopixel#v0.6.38"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
